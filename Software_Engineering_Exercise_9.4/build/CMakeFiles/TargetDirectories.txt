@@ -1,0 +1,4 @@
+/home/viki/Git/ENPM_808X_Week3_HW/Software_Engineering_Exercise_9.4/cpp-boilerplate/build/app/CMakeFiles/scratch.dir
+/home/viki/Git/ENPM_808X_Week3_HW/Software_Engineering_Exercise_9.4/cpp-boilerplate/build/vendor/googletest/googletest/CMakeFiles/gtest.dir
+/home/viki/Git/ENPM_808X_Week3_HW/Software_Engineering_Exercise_9.4/cpp-boilerplate/build/vendor/googletest/googletest/CMakeFiles/gtest_main.dir
+/home/viki/Git/ENPM_808X_Week3_HW/Software_Engineering_Exercise_9.4/cpp-boilerplate/build/test/CMakeFiles/cpp-test.dir
